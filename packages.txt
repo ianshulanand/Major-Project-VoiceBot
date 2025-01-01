@@ -1,2 +1,2 @@
-portaudio19-dev    # Development files for PortAudio (used by PyAudio for audio I/O)
-python3-all-dev    # Development files for Python 3 (includes headers and libraries for building Python extensions)
+portaudio19-dev
+python3-all-dev
